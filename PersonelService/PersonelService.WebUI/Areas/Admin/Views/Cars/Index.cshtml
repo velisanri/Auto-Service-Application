@@ -1,0 +1,109 @@
+﻿
+@model IEnumerable<PersonelService.Entities.Arac>
+
+@{
+    ViewData["Title"] = "Araçlar";
+}
+
+<h1>Araçlar</h1>
+
+<p>
+    <a class="btn btn-outline-primary" asp-action="Create">Yeni Ekle</a>
+</p>
+
+<table class="table" id="araclarTable">
+    <thead>
+        <tr>
+            <th>Renk</th>
+            <th>Fiyati</th>
+            <th>Modeli</th>
+            <th>Kasa Tipi</th>
+            <th>Model Yili</th>
+            <th>Satista Mi</th>
+            <th>Anasayfa</th>
+            <th>Resim</th>
+            <th>Marka</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Renk)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fiyati)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Modeli)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KasaTipi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ModelYili)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SatistaMi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Anasayfa)
+                </td>
+                <td>
+                    <img src="/Img/Cars/@item.Resim1" alt="" height="34" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marka.Adi)
+                </td>
+                <td>
+                    <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                    <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            function loadTable() {
+                $.ajax({
+                    url: '@Url.Action("IndexAsync")',
+                    type: 'GET',
+                    dataType: 'json',
+                    success: function (data) {
+                        var rows = '';
+                        $.each(data, function (index, item) {
+                            rows += '<tr>' +
+                                '<td>' + item.renk + '</td>' +
+                                '<td>' + item.fiyati + '</td>' +
+                                '<td>' + item.modeli + '</td>' +
+                                '<td>' + item.kasaTipi + '</td>' +
+                                '<td>' + item.modelYili + '</td>' +
+                                '<td>' + (item.satistaMi ? 'Evet' : 'Hayır') + '</td>' +
+                                '<td>' + (item.anasayfa ? 'Evet' : 'Hayır') + '</td>' +
+                                '<td><img src="/Img/Cars/' + item.resim1 + '" alt="" height="34" /></td>' +
+                                '<td>' + item.marka.adi + '</td>' +
+                                '<td>' +
+                                '<a class="btn btn-outline-primary" href="/Cars/Edit/' + item.id + '">Düzenle</a> | ' +
+                                '<a class="btn btn-outline-danger" href="/Cars/Delete/' + item.id + '">Sil</a>' +
+                                '</td>' +
+                                '</tr>';
+                        });
+
+                        $('#araclarTable tbody').html(rows);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+            }
+
+            loadTable();
+        });
+    </script>
+}

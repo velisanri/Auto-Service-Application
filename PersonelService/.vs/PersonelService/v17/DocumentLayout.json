@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\utils\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\utils\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\utils\\emailbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\utils\\emailbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\views\\home\\createqrcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\views\\home\\createqrcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\views\\brands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\views\\brands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.webui\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387C7A3A-F09C-4CC0-BE2A-F8B7B55D7041}|PersonelService.WebUI\\PersonelService.WebUI.csproj|solutionrelative:personelservice.webui\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.service\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|solutionrelative:personelservice.service\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|solutionrelative:personelservice.service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.service\\abstract\\imusteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|solutionrelative:personelservice.service\\abstract\\imusteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.service\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D0886-BA08-4465-9E59-3C3388D6D78C}|PersonelService.Service\\PersonelService.Service.csproj|solutionrelative:personelservice.service\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\concrete\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\concrete\\musterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\concrete\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\concrete\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\abstract\\imusterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\abstract\\imusterirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\abstract\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\abstract\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC83AD-0B75-46AE-812B-12176056F3AC}|PersonelService.Data\\PersonelService.Data.csproj|solutionrelative:personelservice.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\servis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\personelservice\\personelservice.entities\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D30630-DE04-425C-8D31-0E32018ADA1B}|PersonelService.Entities\\PersonelService.Entities.csproj|solutionrelative:personelservice.entities\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Utils\\MailHelper.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Utils\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Utils\\MailHelper.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Utils\\MailHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:08:56.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Utils\\EmailBackgroundService.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Utils\\EmailBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Utils\\EmailBackgroundService.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Utils\\EmailBackgroundService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:08:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateQRCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Views\\Home\\CreateQRCode.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Views\\Home\\CreateQRCode.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Views\\Home\\CreateQRCode.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Views\\Home\\CreateQRCode.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T06:18:57.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T06:18:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAYwNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:01:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:57:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:08:49.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:07:39.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:07:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\MainController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:01:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Brands\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Views\\Brands\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Brands\\Delete.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Views\\Brands\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:54:38.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Program.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:38:37.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:52:25.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:49:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Views\\Services\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:48:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:40:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.WebUI\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PersonelService.WebUI\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:38:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IMusteriService.cs",
+              "RelativeDocumentMoniker": "PersonelService.Service\\Abstract\\IMusteriService.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IMusteriService.cs",
+              "RelativeToolTip": "PersonelService.Service\\Abstract\\IMusteriService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:37:20.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\ICarService.cs",
+              "RelativeDocumentMoniker": "PersonelService.Service\\Abstract\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\ICarService.cs",
+              "RelativeToolTip": "PersonelService.Service\\Abstract\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:37:13.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "PersonelService.Service\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "PersonelService.Service\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:37:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IService.cs",
+              "RelativeDocumentMoniker": "PersonelService.Service\\Abstract\\IService.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Service\\Abstract\\IService.cs",
+              "RelativeToolTip": "PersonelService.Service\\Abstract\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:37:04.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Concrete\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\UserRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Concrete\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:23:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\Repository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Concrete\\Repository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\Repository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Concrete\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\CarRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Concrete\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\CarRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Concrete\\CarRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:57.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Abstract\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\ICarRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Abstract\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:52.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMusteriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\IMusteriRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Abstract\\IMusteriRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\IMusteriRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Abstract\\IMusteriRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Abstract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Abstract\\IUserRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Abstract\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MusteriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\MusteriRepository.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\Concrete\\MusteriRepository.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\Concrete\\MusteriRepository.cs",
+              "RelativeToolTip": "PersonelService.Data\\Concrete\\MusteriRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:22:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "PersonelService.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "PersonelService.Data\\DatabaseContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:18:48.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Slider.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:17:11.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Servis.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Servis.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Servis.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Servis.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Servis.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:17:09.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Satis.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Satis.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Satis.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Satis.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Satis.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:16:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Rol.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:14:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Musteri.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Musteri.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Musteri.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:14:55.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Marka.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Marka.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Marka.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:14:34.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Kullanici.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Kullanici.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:13:44.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Arac.cs",
+              "RelativeDocumentMoniker": "PersonelService.Entities\\Arac.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\PersonelService\\PersonelService.Entities\\Arac.cs",
+              "RelativeToolTip": "PersonelService.Entities\\Arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:06:12.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

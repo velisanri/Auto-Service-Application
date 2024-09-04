@@ -1,0 +1,17 @@
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Data.deps.json
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Data.runtimeconfig.json
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Data.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Data.pdb
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Entities.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\bin\Debug\net7.0\PersonelService.Entities.pdb
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.csproj.AssemblyReference.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.AssemblyInfoInputs.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.AssemblyInfo.cs
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.csproj.CoreCompileInputs.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\Personel.CBD9C6E0.Up2Date
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\refint\PersonelService.Data.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.pdb
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\PersonelService.Data.genruntimeconfig.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Data\obj\Debug\net7.0\ref\PersonelService.Data.dll

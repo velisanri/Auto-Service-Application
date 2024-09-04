@@ -1,0 +1,14 @@
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\bin\Debug\net7.0\PersonelService.Entities.deps.json
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\bin\Debug\net7.0\PersonelService.Entities.runtimeconfig.json
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\bin\Debug\net7.0\PersonelService.Entities.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\bin\Debug\net7.0\PersonelService.Entities.pdb
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.csproj.AssemblyReference.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.AssemblyInfoInputs.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.AssemblyInfo.cs
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\refint\PersonelService.Entities.dll
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.pdb
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\PersonelService.Entities.genruntimeconfig.cache
+C:\Users\Veli Sanrı\source\repos\PersonelService\PersonelService.Entities\obj\Debug\net7.0\ref\PersonelService.Entities.dll

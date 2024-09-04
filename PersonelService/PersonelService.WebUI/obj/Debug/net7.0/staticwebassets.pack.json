@@ -1,0 +1,1105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PersonelService.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PersonelService.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\GeneratedQRCode\\qrcode.png",
+      "PackagePath": "staticwebassets\\GeneratedQRCode\\qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\booking.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\booking.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\car-repair-html-template.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\car-repair-html-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\carousel-1.png",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\carousel-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\carousel-2.png",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\carousel-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\carousel-bg-1.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\carousel-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\carousel-bg-2.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\carousel-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\service.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\team.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\HomePage\\carserv-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\HomePage\\carserv-1.0.0\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Audi1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Audi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140829.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140829.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140846.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140846.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140913.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-08 140913.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133428.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133428.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133450.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133450.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133520.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133520.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133614.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Ekran görüntüsü 2024-05-09 133614.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\Figure-2-clocking-featured.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\Figure-2-clocking-featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\RobloxScreenShot20240716_023915717.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\RobloxScreenShot20240716_023915717.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\RobloxScreenShot20240717_011526672.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\RobloxScreenShot20240717_011526672.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\RobloxScreenShot20240717_011545828.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\RobloxScreenShot20240717_011545828.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\audi2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\audi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\audi3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\audi3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw11.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw22.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\bmw33.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\ddr1-ddr2-ddr3-ddr4-ddr5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ddr1-ddr2-ddr3-ddr4-ddr5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\fiat1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\fiat2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\fiat3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\indir (2).jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\indir (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\indir (3).jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\indir (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\indir (4).jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\indir (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\indir (5).jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\indir (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\indir (6).jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\indir (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\jaguar1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\jaguar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\jaguar2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\jaguar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\jarguar3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\jarguar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\landroever2.JPEG",
+      "PackagePath": "staticwebassets\\Img\\Cars\\landroever2.JPEG"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\landrover1.JPEG",
+      "PackagePath": "staticwebassets\\Img\\Cars\\landrover1.JPEG"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\landrover3.JPEG",
+      "PackagePath": "staticwebassets\\Img\\Cars\\landrover3.JPEG"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\mercedes1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\mercedes2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\mercedes3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\volvo1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\volvo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\volvo2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\volvo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Cars\\volvo3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\volvo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\3b6f1911-f088-4772-8e5e-45e354f33d77_Garantili Bakım Slider-TR.webp",
+      "PackagePath": "staticwebassets\\Img\\Slider\\3b6f1911-f088-4772-8e5e-45e354f33d77_Garantili Bakım Slider-TR.webp"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133400.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133400.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133450.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133450.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133614.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\Ekran görüntüsü 2024-05-09 133614.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\ILK-SER-Oto-Bakim-Servisi-Slider-5.webp",
+      "PackagePath": "staticwebassets\\Img\\Slider\\ILK-SER-Oto-Bakim-Servisi-Slider-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\artik-acik-garaj-var.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\artik-acik-garaj-var.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\mobil_slider1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\mobil_slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\profesyonel-2el-hizmet-min.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\profesyonel-2el-hizmet-min.png"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\Img\\Slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Veli Sanrı\\source\\repos\\PersonelService\\PersonelService.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\tables.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PersonelService.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PersonelService.WebUI.props",
+      "PackagePath": "build\\PersonelService.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonelService.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\PersonelService.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PersonelService.WebUI.props",
+      "PackagePath": "buildTransitive\\PersonelService.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

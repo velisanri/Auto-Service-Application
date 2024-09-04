@@ -1,0 +1,35 @@
+﻿@model QRCodeModel
+@{
+    ViewData["Title"] = "Arabanız için link oluşturun";
+}
+<h1>Arabanız için link oluşturun</h1>
+<hr />
+<div class="row">
+    <div class="col-md-3">
+        <form asp-action="CreateQRCode" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="QRCodeText" class="control-label"></label>
+                <input asp-for="QRCodeText" class="form-control" />
+                <span asp-validation-for="QRCodeText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedAracId" class="control-label"></label>
+                <select asp-for="SelectedAracId" asp-items="Model.AracOptions" class="form-select"></select>
+                <span asp-validation-for="SelectedAracId" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="margin-top: 30px;">
+                <input type="submit" value="QR Code Oluştur" class="btn btn-primary" />
+            </div>
+            @if (ViewBag.QrCodeUri != null)
+            {
+                <div class="form-group">
+                    <img src="@ViewBag.QrCodeUri" class="img-thumbnail" />
+                </div>
+            }
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
