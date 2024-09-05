@@ -8,6 +8,8 @@ Business Layer, Entity Layer, Data Layer and Presentation Layer Structures
 
 Code First
 
+Using async await structure
+
 HTML,CSS,Bootstrap And AJAX
 
 ASP.NET MVC Framework ( Life Cycle ) 
